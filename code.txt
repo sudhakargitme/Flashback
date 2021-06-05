@@ -1,0 +1,32 @@
+import InfoIcon from '@material-ui/icons/Info';
+
+C:\Users\sudhakar.sundaram\Downloads\project_mern_memories-PART_4\project_mern_memories-PART_4\client\src\components\PostDetails\PostDetails.jsx
+
+          <Divider style={{ margin: '20px 0' }} />
+          <Typography variant="body1"><strong>Realtime Chat - coming soon!</strong></Typography>
+          <Divider style={{ margin: '20px 0' }} />
+          <Typography variant="body1"><strong>Comments - coming soon!</strong></Typography>
+          <Divider style={{ margin: '20px 0' }} />
+		  
+C:\Users\sudhakar.sundaram\Downloads\project_mern_memories-PART_4\project_mern_memories-PART_4\client\src\components\Home\Home.js
+
+              <ChipInput
+                style={{ margin: '10px 0' }}
+                value={tags}
+                onAdd={(chip) => handleAddChip(chip)}
+                onDelete={(chip) => handleDeleteChip(chip)}
+                label="Search Tags"
+                variant="outlined"
+              />
+			  
+	C:\Users\sudhakar.sundaram\Downloads\project_mern_memories-PART_4\project_mern_memories-PART_4\client\src\components\Form\Form.js
+	
+            <ChipInput
+            name="tags"
+            variant="outlined"
+            label="Tags"
+            fullWidth
+            value={postData.tags}
+            onAdd={(chip) => handleAddChip(chip)}
+            onDelete={(chip) => handleDeleteChip(chip)}
+          />

@@ -3,4 +3,4 @@ build
 .env
 .Procfile
 README.md
-code.txt
+*.txt

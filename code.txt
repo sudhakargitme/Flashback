@@ -30,3 +30,6 @@ C:\Users\sudhakar.sundaram\Downloads\project_mern_memories-PART_4\project_mern_m
             onAdd={(chip) => handleAddChip(chip)}
             onDelete={(chip) => handleDeleteChip(chip)}
           />
+		  
+		  
+		  //const CONNECTION_URL = 'mongodb+srv://admin:uW6DcX4FibAhmmrc@cluster0.gl87y.mongodb.net/myFirstDatabase?retryWrites=true&w=majority';

@@ -1,6 +1,4 @@
 node_modules
 build
 .env
-.Procfile
-README.md
-*.txt
+.pro

@@ -100,7 +100,7 @@ const SignUp = () => {
             <Grid item>
             <a class="txt">By signing up, you agree to our</a> 
             <a class="txt" href="https://www.termsfeed.com/live/c130781d-e28d-498e-8b1e-e3343f45eced" target="_blank"> .Terms & Conditions</a>
-            <a class="txt" href="https://www.privacypolicygenerator.info/live.php?token=vfmKzsmLHyrY9hylrp1s7SAWGk4Fo3Vi" target="_blank"> .Privacy Policy</a> 
+            <a class="txt" href="https://www.privacypolicygenerator.info/live.php?token=glUFNnlOWnKVoAACgFIuqCQpHzMKdmkd" target="_blank"> .Privacy Policy</a> 
             </Grid>
           </Grid>
         </form>
